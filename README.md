@@ -8,8 +8,7 @@ By transacting with **$DUM**, users unlock a tiered discount model, reducing ope
 
 ## 💎 The $DUM Ecosystem & Utility
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/78a6632c-f70f-47f4-885e-ee92735088d5" />
-
+<img width="1536" height="1024" alt="dum pngg" src="https://github.com/user-attachments/assets/04a07d7b-2afc-44be-8e11-6850c83d2cc3" />
 
 The Aether Node economy is built around the **$DUM** token to ensure long-term value accrual and ecosystem sustainability:
 
